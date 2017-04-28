@@ -1,4 +1,4 @@
-Local onde são "_hosteados_" todos meus arquivos `.css`, `.js`, dentre outros.  
+Local onde são "_hosteados_" todos meus arquivos `.css`, `.js`, dentre outros, estes por sua vez, relativos à **Polícia RHC**.   
 
 ---
 
